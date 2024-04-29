@@ -1,4 +1,4 @@
-![Example Image]((https://i0.wp.com/www.cssscript.com/wp-content/uploads/2017/09/PWStrength.png?fit=636%2C459&ssl=1))
+![Example Image]([https://i0.wp.com/www.cssscript.com/wp-content/uploads/2017/09/PWStrength.png?fit=636%2C459&ssl=1])
 
 ## Password Complexity Checker Tool
 
