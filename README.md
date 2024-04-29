@@ -4,7 +4,7 @@ This Python script provides a simple implementation based on criteria such as le
 
 ## Usage
 
-1. **Clone the Repository**: git clone (https://github.com/annie-81/PRODIGY_CS_01.git)
+1. **Clone the Repository**: git clone (https://github.com/annie-81/PRODIGY_CS_03.git)
 
 ### Navigate to the Directory:
 
